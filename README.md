@@ -22,7 +22,7 @@ print("Hello, World!")
 
 ```
 
-![image](https://github.com/user-attachments/assets/14c670d5-697a-4356-be2b-09399c5b6cfc)
+![image](https://github.com/user-attachments/assets/17af21a0-5f60-4bc0-8b5f-1453565959a0)
 
 Нажимаем на "Run", и получаем ответ 
 Hello, World!
