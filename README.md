@@ -21,6 +21,9 @@
 print("Hello, World!")
 
 ```
+
+![image](https://github.com/user-attachments/assets/14c670d5-697a-4356-be2b-09399c5b6cfc)
+
 Нажимаем на "Run", и получаем ответ 
 Hello, World!
 - Так мы проверили, работает ли штатно наша программа.
@@ -52,7 +55,13 @@ public class HelloWorld : MonoBehaviour
 }
 
 ```
+![image](https://github.com/user-attachments/assets/5db3c9e6-4b22-41db-8738-d3a58d4687cb)
+
 Сохраняем его. После чего наводим данный документ на куб и проигрываем сцену. В консоле у нас появляется Hello, World!.
+
+![image](https://github.com/user-attachments/assets/6cd28a35-724f-4ffd-ae09-4ce48aa5a69f)
+
+![image](https://github.com/user-attachments/assets/27dd0938-44c8-4d07-8cd3-d694e333c73b)
 
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
